@@ -1,6 +1,6 @@
 # torchplus
 
-## 1. Implements the + operator on PyTorch layers.
+## 1. Implements the + operator on PyTorch modules, returning sequences.
 ## 2. Sequence step layers with no args don't require parentheses.
 
 ### Original model:
