@@ -5,7 +5,7 @@
 
 ### Original model:
 
-```
+```py
 from torch import nn
 
 class OrigModel(nn.Module):
@@ -29,7 +29,7 @@ class OrigModel(nn.Module):
 
 ### Rewritten using torchplus:
 
-```
+```py
 from torchplus import nn
 
 class TorchPlusModel(nn.Module):
